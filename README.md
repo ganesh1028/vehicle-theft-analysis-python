@@ -39,4 +39,4 @@ Vehicle theft patterns depend on multiple factors such as usage and availability
 
 ## Link
 
-LinkedIn: add your profile link here
+LinkedIn: https://www.linkedin.com/in/gowriprasad/
